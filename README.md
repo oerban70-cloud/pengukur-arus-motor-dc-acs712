@@ -6,7 +6,7 @@ dan arusnya tampil langsung di OLED — lengkap dengan buzzer dan LED yang
 menyala begitu arusnya melewati 3 ampere.
 
 Video penjelasan (60 detik):
-link menyusul setelah upload
+https://www.youtube.com/shorts/P-CyGl_A2oQ
 
 ## Komponen
 
